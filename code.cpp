@@ -27,7 +27,7 @@ void selectionSort(int arr[], int n)
 		swap(&arr[min_idx], &arr[i]);
 	}
 }
-
+// complexcity : Worst complexity: n^2 //
 /* Function to print an array */
 void printArray(int arr[], int size)
 {
