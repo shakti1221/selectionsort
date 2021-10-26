@@ -1,4 +1,5 @@
 // C++ program for implementation of selection sort
+//The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
 //The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning.
 // this algorithm is based on finding the minimum element in unsorted array and swap it with element at begining.
 #include <bits/stdc++.h>
