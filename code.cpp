@@ -10,7 +10,7 @@ void swap(int *xp, int *yp)
 	*xp = *yp;
 	*yp = temp;
 }
-// The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. 
+// The selection sort algorithm sorts in an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. 
 void selectionSort(int arr[], int n)
 {
 	int i, j, min_idx;
